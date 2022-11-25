@@ -8,7 +8,7 @@ type propsType={
     body: string
     id: number
     title:string
-    userId: number
+    userId:    number
 }
 
 
